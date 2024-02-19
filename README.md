@@ -25,6 +25,7 @@ The Python file for all methods described in the paper is available in the Pytho
 * Note:
   * Input file name, output file name, and output file path could be user-specified.
   * Output data size/the amount of data sampled must be specified by the user in the code files.
+  * Please keep the file "PR_DATA.xlsx" in the same folder as the code file.
 
 
 ## To reproduce the Data Instance for the Optimization Problem
